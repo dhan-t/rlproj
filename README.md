@@ -1,5 +1,5 @@
 # LRT-2 Reinforcement Learning Project: 'Dagdag o Lapad'
-
+test lang
 This project explores the application of Reinforcement Learning (RL) to optimize the operations of Manila's Light Rail Transit Line 2 (LRT-2). The goal is to train intelligent agents that can dynamically decide whether to add more train carriages ('Dagdag') or widen existing ones ('Lapad') to maximize profitability and efficiency.
 
 Three different RL agents are implemented and compared:
